@@ -17,12 +17,12 @@
     "CSS",
     "Javascript"
   ],
-  "author": "Bruce Cantarim",
+  "author": "Gabriel Brum",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brucecantarim/studion/issues"
+    "url": "https://github.com/GabrielCC163/studion/issues"
   },
-  "homepage": "https://github.com/brucecantarim/studion#readme",
+  "homepage": "https://github.com/GabrielCC163/studion#readme",
   "devDependencies": {
     "live-server": "^1.2.1"
   }
