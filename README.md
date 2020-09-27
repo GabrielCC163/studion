@@ -7,7 +7,7 @@ This is the first project of the Frontend Developer course for the Imagine Schoo
 ### Clone the project / Clone o projeto
 
 ```
-git clone http://github.com/brucecantarim/studion.git
+git clone http://github.com/GabrielCC163/studion.git
 ```
 
 ### Install the project dependencies / Instalar as dependências do projeto
@@ -25,4 +25,4 @@ npm start
 
 ### Questions? / Perguntas
 
-Send me an email at [bruce@cantarim.com](mailto:bruce@cantarim.com)
+Send me an email at [gbrum.rodrigues@gmail.com](mailto:gbrum.rodrigues@gmail.com)
